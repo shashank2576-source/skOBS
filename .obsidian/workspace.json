@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shashankGit/shashankgitsynccheck.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shashankgitsynccheck"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shashankGit/shashankgitsynccheck.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shashankgitsynccheck"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shashankGit/shashankgitsynccheck.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shashankgitsynccheck"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shashankGit/shashankgitsynccheck.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shashankgitsynccheck"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "57f8daa4241f8962",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac24bd4099033c22",
+  "active": "82a1879c53548dfd",
   "lastOpenFiles": [
-    "README.md",
     "shashankGit/shashankgitsynccheck.md",
+    "README.md",
     "shashankGit"
   ]
 }
