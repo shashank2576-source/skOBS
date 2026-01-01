@@ -180,11 +180,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "72072f1ff3d05306",
+  "active": "cf05a500a04c71e6",
   "lastOpenFiles": [
     "README.md",
     "skNotes/So I am done using gitHub to sync Obsidian.md",
