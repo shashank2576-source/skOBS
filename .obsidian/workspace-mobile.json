@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Car Sell/Car 24/This is final.md",
+                "file": "Car Sell/Car 24/Car 24 online add.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is final"
+              "title": "Car 24 online add"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Car Sell/Car 24/This is final.md",
+            "file": "Car Sell/Car 24/Car 24 online add.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,8 +214,8 @@
   },
   "active": "751287e74f80c008",
   "lastOpenFiles": [
-    "Car Sell/Car 24/Car 24 online add.md",
     "Car Sell/Car 24/This is final.md",
+    "Car Sell/Car 24/Car 24 online add.md",
     "Car Sell/Car 24/Going to sell my car to car 24.md",
     "skNotes/So I am done using gitHub to sync Obsidian.md",
     "Car Sell/Car 24",
